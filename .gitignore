@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.dat
+
+
+.jpeg
+
+*.jpg
+
+*.whl
